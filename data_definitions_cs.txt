@@ -1,0 +1,29 @@
+From: https://www.dictionary.com/browse/computer-science
+the science that deals with the theory and methods of processing information in digital computers, the design of computer hardware and software, and the applications of computers.
+
+From: http://www.businessdictionary.com/definition/computer-science.html 
+The study of computing, programming, and computation in correspondence with computer systems. This field of study utilizes theories on how computers work to design, test, and analyze concepts. Computer science usually has a stronger mathematical foundation than a scientific one and on some occasions may not focus directly on computers and their systems.
+
+From: https://pages.mtu.edu/~john/whatiscs.html
+Computer science is a discipline that spans theory and practice. It requires thinking both in abstract terms and in concrete terms. The practical side of computing can be seen everywhere. Nowadays, practically everyone is a computer user, and many people are even computer programmers. Getting computers to do what you want them to do requires intensive hands-on experience. But computer science can be seen on a higher level, as a science of problem solving.
+
+From: https://techterms.com/definition/computer_science
+Computer science is the study of computers and computing concepts. It includes both hardware and software, as well as networking and the Internet.
+
+From: https://en.wikipedia.org/wiki/Computer_science
+Computer science is the study of the theory, experimentation, and engineering that form the basis for the design and use of computers. It is the scientific and practical approach to computation and its applications and the systematic study of the feasibility, structure, expression, and mechanization of the methodical procedures (or algorithms) that underlie the acquisition, representation, processing, storage, communication of, and access to, information. An alternate, more succinct definition of computer science is the study of automating algorithmic processes that scale. A computer scientist specializes in the theory of computation and the design of computational systems.[1] See glossary of computer science.
+
+Its fields can be divided into a variety of theoretical and practical disciplines. Some fields, such as computational complexity theory (which explores the fundamental properties of computational and intractable problems), are highly abstract, while fields such as computer graphics emphasize real-world visual applications. Other fields still focus on challenges in implementing computation. For example, programming language theory considers various approaches to the description of computation, while the study of computer programming itself investigates various aspects of the use of programming language and complex systems. Human–computer interaction considers the challenges in making computers and computations useful, usable, and universally accessible to humans.
+
+From: https://www.merriam-webster.com/dictionary/computer%20science
+a branch of science that deals with the theory of computation or the design of computers
+
+From: https://www.britannica.com/science/computer-science
+Computer science, the study of computers, including their design (architecture) and their uses for computations, data processing, and systems control. The field of computer science includes engineering activities such as the design of computers and of the hardware and software that make up computer systems. It also encompasses theoretical, mathematical activities, such as the design and analysis of algorithms, performance studies of systems and their components by means of techniques like queueing theory, and the estimation of the reliability and availability of systems by probabilistic techniques. Since computer systems are often too large and complicated to allow a designer to predict failure or success without testing, experimentation is incorporated into the development cycle. Computer science is generally considered a discipline separate from computer engineering, although the two disciplines overlap extensively in the area of computer architecture, which is the design and study of computer systems.
+
+From: http://www.cs.bu.edu/AboutCS/WhatIsCS.pdf
+Computer Science is the systematic study of the feasibility, structure, expression, and mechanization of the methodical
+processes (or algorithms) that underlie the acquisition, representation, processing, storage, communication of, and
+access to information, whether such information is encoded in bits and bytes in a computer memory or transcribed in
+genes and protein structures in a human cell. The fundamental question underlying all of computing is: what
+computational processes can be efficiently automated and implemented?

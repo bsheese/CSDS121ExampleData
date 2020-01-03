@@ -1,0 +1,35 @@
+From wikipedia:
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured,[1][2] similar to data mining.
+Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data.[3] It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science.
+
+
+From: https://searchenterpriseai.techtarget.com/definition/data-science
+Data science is the study of where information comes from, what it represents and how it can be turned into a valuable resource in the creation of business and IT strategies. Mining large amounts of structured and unstructured data to identify patterns can help an organization rein in costs, increase efficiencies, recognize new market opportunities and increase the organization's competitive advantage.
+
+
+From: https://www.investopedia.com/terms/d/data-science.asp
+Data science is a field of Big Data geared toward providing meaningful information based on large amounts of complex data. Data science, or data-driven science, combines different fields of work in statistics and computation in order to interpret data for the purpose of decision making.
+
+
+From: https://www.techopedia.com/definition/30202/data-science
+Data science is a broad field that refers to the collective processes, theories, concepts, tools and technologies that enable the review, analysis and extraction of valuable knowledge and information from raw data. It is geared toward helping individuals and organizations make better decisions from stored, consumed and managed data.
+Data science is formerly known as datalogy.
+
+
+From: https://www.datarobot.com/wiki/data-science/
+Data science is the field of study that combines domain expertise, programming skills, and knowledge of math and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems that perform tasks which ordinarily require human intelligence. In turn, these systems generate insights that analysts and business users translate into tangible business value.
+
+
+From: https://techterms.com/definition/data_science
+Data science is the study of data. It involves developing methods of recording, storing, and analyzing data to effectively extract useful information. The goal of data science is to gain insights and knowledge from any type of data — both structured and unstructured.
+
+
+From: https://www.digitalvidya.com/blog/what-is-data-science/
+Data Science may be defined as a multidisciplinary blend of data inference, algorithm development, and technology to solve complex data analysis issues. Data Science deals with identification, representation, and extraction of meaningful information from data sources to be used for business purposes. Data engineers are responsible for setting up the database and storage to facilitate the process of data mining, data munging and other processes.
+
+
+From: https://datascience.harvard.edu/
+Data science is an emerging discipline that draws upon knowledge in statistical methodology and computer science to create impactful predictions and insights for a wide range of traditional scholarly fields.
+
+From: https://www.thinkful.com/blog/what-is-data-science/
+Data science, in its most basic terms, can be defined as obtaining insights and information, really anything of value, out of data. Like any new field, it's often tempting but counterproductive to try to put concrete bounds on its definition. This is data science. This is not. In reality, data science is evolving so fast and has already shown such enormous range of possibility that a wider definition is essential to understanding it. And while it's hard to pin down a specific definition, it's quite easy to see and feel its impact. Data science, when applied to different fields can lead to incredible new insights.
